@@ -53,13 +53,7 @@ Pre-Final Year **CSE (AIML)** student at **VelTech University, Chennai** — bui
 
 ---
 
-center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sanjaykurakul&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</div>
-
----
 
 <div align="center">
 <sub>Open to collaborations and opportunities · sanjaykurakul@gmail.com</sub>
