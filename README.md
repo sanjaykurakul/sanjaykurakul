@@ -53,17 +53,7 @@ Pre-Final Year **CSE (AIML)** student at **VelTech University, Chennai** — bui
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanjaykurakul&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykurakul&layout=compact&hide_border=true&theme=default&langs_count=6" height="160" />
-
-</div>
-
-<div align="center">
+center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sanjaykurakul&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
