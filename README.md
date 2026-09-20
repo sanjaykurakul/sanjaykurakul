@@ -14,7 +14,7 @@
 
 ## About
 
-Pre-Final Year **CSE ** student at **VelTech University, Chennai** — building full-stack web applications and sharpening problem-solving skills through consistent DSA practice.
+Final Year **CSE ** student at **VelTech University, Chennai** — building full-stack web applications and sharpening problem-solving skills through consistent DSA practice.
 
 ---
 
